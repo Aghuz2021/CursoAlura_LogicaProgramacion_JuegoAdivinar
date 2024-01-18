@@ -1,5 +1,3 @@
-
-
 # Seccion 1:
 *Preparamos el entorno de desarrollo instalando Visual Studio Code para crear programas utilizando el lenguaje JavaScript.
 *Comprendimos el concepto de variable para almacenar información, como números o palabras, para usarla más tarde en nuestro programa.
@@ -9,7 +7,7 @@
 # seccion 2: Condiciones y concatenación:
 *Utilizamos la consola para probar y depurar nuestro código, mostrando mensajes y valores durante la ejecución del programa.
 *Aprendimos a utilizar estructuras condicionales (if/else) para generar lógicas que permiten al programa tomar decisiones *basadas en condiciones específicas.
-**Implementamos un bloque de código para mostrar un mensaje en caso de que el intento del usuario no coincida con el número secreto.
+*Implementamos un bloque de código para mostrar un mensaje en caso de que el intento del usuario no coincida con el número secreto.
 *Usamos Template Strings para concatenar el número secreto con el valor almacenado en una variable y mostrar un mensaje personalizado.
 
 
